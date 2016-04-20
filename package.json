@@ -1,0 +1,26 @@
+{
+  "name": "idb",
+  "version": "1.0.0",
+  "description": "Library for easy use IndexedDB",
+  "main": "idb.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/idb.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savelevcorr/Idb.git"
+  },
+  "keywords": [
+    "IndexedDB",
+    "NoSQL",
+    "browser",
+    "database",
+    "frontend"
+  ],
+  "author": "Andrew Savelev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savelevcorr/Idb/issues"
+  },
+  "homepage": "https://github.com/savelevcorr/Idb#readme"
+}
